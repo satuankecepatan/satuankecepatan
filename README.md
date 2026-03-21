@@ -1,16 +1,13 @@
-## Hi there 👋
+satuan kecepatan is m/s
 
-<!--
-**satuankecepatan/satuankecepatan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+my name is mas'ari/saldy khairul barkatullah
 
-Here are some ideas to get you started:
+it's a pun hehe
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+u can find me uhh on other social media -> `@khairulbarkatullah`
+
+---
+
+still learning r and python
+
+mainly doing data for academic purposes and whatnot
