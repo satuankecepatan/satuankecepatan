@@ -8,8 +8,10 @@ u can find me uhh on other social media -> `@khairulbarkatullah`
 
 ---
 
-still learning r and python
+still learning these:
+
+![top languages i guess](https://github-readme-stats.vercel.app/api/top-langs/?username=satuankecepatan&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
 mainly doing data for academic purposes and whatnot
 
-![top languages i guess](https://github-readme-stats.vercel.app/api/top-langs/?username=satuankecepatan&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+free palestine 🇵🇸
